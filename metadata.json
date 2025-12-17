@@ -1,0 +1,8 @@
+{
+  "name": "Copy of CivicLoop Web",
+  "description": "Offline-first solid waste management driver application designed for high accessibility and low-connectivity environments.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
